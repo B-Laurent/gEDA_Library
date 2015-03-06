@@ -1,0 +1,16 @@
+gEDA/gnetlist version 1.8.2.20130925
+gEDA/gnetlist comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Parsed config from [/usr/share/gEDA/system-gafrc]
+Parsed config from [/home/laurent/.gEDA/gafrc]
+Parsed config from [/usr/share/gEDA/system-gnetlistrc]
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l nxp_bipolar.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l nxp_diodes.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l ti_opamps.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l ltc_opamps.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l national_opamps.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Library command failed [/home/werner/oss/geda/spicelib/scripts/gedaparts -l adi_opamps.index]: Failed to execute child process "/home/werner/oss/geda/spicelib/scripts/gedaparts" (No such file or directory)
+Loading schematic [/home/laurent/Documents/120_Electronique/40_Outillage/gEDA/40_spicelib/spicelib/model_tests/ltc/opamps/LT1192_LTC00011/ng25/ac_amplifier.sch]
+Component [LT1192_LTC00011] was not found in the component library

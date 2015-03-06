@@ -1,0 +1,26 @@
+;; Creation 04/06/2012
+;; http://archives.seul.org/geda/user/Jul-2009/msg00355.html
+;; 
+
+(define gedasymbols "/home/laurent/usr_lib/geda/Symbols")
+(component-library (build-path gedasymbols "000_Power"))
+(component-library (build-path gedasymbols "100_Atmel"))
+(component-library (build-path gedasymbols "110_Arduino"))
+(component-library (build-path gedasymbols "200_Resistances"))
+(component-library (build-path gedasymbols "210_Condensateurs"))
+(component-library (build-path gedasymbols "220_Diodes"))
+(component-library (build-path gedasymbols "230_Quartz"))
+(component-library (build-path gedasymbols "240_Oscillateurs"))
+(component-library (build-path gedasymbols "240_Inductances"))
+(component-library (build-path gedasymbols "400_Sensors"))
+(component-library (build-path gedasymbols "410_RadioRxTx"))
+(component-library (build-path gedasymbols "500_Connectique"))
+(component-library (build-path gedasymbols "900_Evaluation"))
+
+
+(define gedasymbols "/home/laurent/usr_lib/geda/Symbols/999_Historique")
+(component-library (build-path gedasymbols "999_Atmel"))
+(component-library (build-path gedasymbols "999_Basic_devices"))
+(component-library (build-path gedasymbols "999_Sensors"))
+(component-library (build-path gedasymbols "999_symbol_templates"))
+(component-library (build-path gedasymbols "999_RTC"))
