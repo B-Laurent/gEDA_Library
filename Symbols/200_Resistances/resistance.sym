@@ -28,3 +28,5 @@ T 200 300 8 10 1 1 0 0 1
 refdes=R?
 T -5 0 8 10 0 1 0 0 1
 footprint=RES-mM-P1016_L0635_W0229.fp
+T -5 0 8 10 0 1 0 0 1
+numslots=0
